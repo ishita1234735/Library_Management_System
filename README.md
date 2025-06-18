@@ -15,3 +15,5 @@ Backend- GUI
 IDE- NetBeans
 Connector- JDBC(Java Database Connnectivity)
 
+Name- Ishita Arora
+Email- ishitaarora3544@gmail.com
