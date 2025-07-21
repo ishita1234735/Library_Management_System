@@ -1,19 +1,43 @@
-# Library_Management_System
-It is a Library Management System project developed using Java ( Java Swings for GUI) and MySQL for backend Database Management. The project is Designed to help perform library operations like Search Book, Add Book,View Book,Issue Book and Return Book along with Dashboard to view all these operations and user signup and login along with it
+📚 Library Management System 
 
-Features
-User Signup and Login
-Add, Search, View, Issue and Return Books
-Manage User Accounts 
-Dasboard to view above operations(Add, Search,View, Issue and Return)
-Java Swing Based GUI
-MySQL Database Connectivity
+This is a Library Management System project developed using Java (with Java Swing for the GUI) and MySQL for backend database management. The system is designed to handle key library operations such as searching, adding, viewing, issuing, and returning books. It also includes user signup and login features, and a dashboard to manage all operations in one place.
 
-Tech Stack
-Frontend- Java(Swing GUI)
-Backend- GUI
-IDE- NetBeans
-Connector- JDBC(Java Database Connnectivity)
+
+
+✨ Features
+
+🔐 User Signup and Login
+
+➕ Add Book
+
+🔍 Search Book
+
+📖 View Book
+
+📤 Issue Book
+
+📥 Return Book
+
+👤 Manage User Accounts
+
+📊 Dashboard to view and manage all operations
+
+🖥️ Java Swing-based GUI
+
+🗄️ MySQL Database Connectivity
+
+
+
+
+🛠️ Tech Stack
+
+Frontend: Java (Swing GUI)
+
+Backend: MySQL
+
+IDE: NetBeans
+
+Database Connector: JDBC (Java Database Connectivity)
 
 
  ![Add_Book_Library](https://github.com/user-attachments/assets/55486f2f-ee09-498f-b3d3-c15113ee7934)
