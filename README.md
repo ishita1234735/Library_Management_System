@@ -1,4 +1,4 @@
-no📚 Library Management System 
+📚 Library Management System 
 
 This is a Library Management System project developed using Java (with Java Swing for the GUI) and MySQL for backend database management. The system is designed to handle key library operations such as searching, adding, viewing, issuing, and returning books. It also includes user signup and login features, and a dashboard to manage all operations in one place.
 
